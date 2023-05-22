@@ -1,0 +1,15 @@
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Mood-Analyser/MoodAnalyzer/bin/Debug/net7.0/MoodAnalyzer
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Mood-Analyser/MoodAnalyzer/bin/Debug/net7.0/MoodAnalyzer.deps.json
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Mood-Analyser/MoodAnalyzer/bin/Debug/net7.0/MoodAnalyzer.runtimeconfig.json
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Mood-Analyser/MoodAnalyzer/bin/Debug/net7.0/MoodAnalyzer.dll
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Mood-Analyser/MoodAnalyzer/bin/Debug/net7.0/MoodAnalyzer.pdb
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Mood-Analyser/MoodAnalyzer/obj/Debug/net7.0/MoodAnalyzer.csproj.AssemblyReference.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Mood-Analyser/MoodAnalyzer/obj/Debug/net7.0/MoodAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Mood-Analyser/MoodAnalyzer/obj/Debug/net7.0/MoodAnalyzer.AssemblyInfoInputs.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Mood-Analyser/MoodAnalyzer/obj/Debug/net7.0/MoodAnalyzer.AssemblyInfo.cs
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Mood-Analyser/MoodAnalyzer/obj/Debug/net7.0/MoodAnalyzer.csproj.CoreCompileInputs.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Mood-Analyser/MoodAnalyzer/obj/Debug/net7.0/MoodAnalyzer.dll
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Mood-Analyser/MoodAnalyzer/obj/Debug/net7.0/refint/MoodAnalyzer.dll
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Mood-Analyser/MoodAnalyzer/obj/Debug/net7.0/MoodAnalyzer.pdb
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Mood-Analyser/MoodAnalyzer/obj/Debug/net7.0/MoodAnalyzer.genruntimeconfig.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Mood-Analyser/MoodAnalyzer/obj/Debug/net7.0/ref/MoodAnalyzer.dll
